@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_background">#B0B0B0</color>
+    <color name="dark_surface">#1E293B</color>
+    <color name="dark_surface_variant">#334155</color>
+    <color name="dark_on_surface">#F1F5F9</color>
+    <color name="dark_on_surface_variant">#CBD5E1</color>
+    <color name="dark_primary">#6366F1</color>
+    <color name="dark_on_primary">#FFFFFF</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+</resources>

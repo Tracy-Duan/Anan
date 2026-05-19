@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Anan" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:colorBackground">@color/dark_background</item>
+        <item name="android:textColor">@color/dark_on_surface</item>
+        <item name="android:windowBackground">@color/dark_background</item>
+    </style>
+</resources>

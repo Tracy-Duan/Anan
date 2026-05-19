@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Anan</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="send">发送</string>
+    <string name="input_message">输入消息...</string>
+    <string name="image">图片</string>
+    <string name="voice">语音</string>
+</resources>
